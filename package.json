@@ -1,0 +1,23 @@
+{
+  "name": "listadekoders",
+  "version": "1.0.0",
+  "description": "Tarea 6 lista de coders",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HugoLozanoSQ9/ListaDePersonasCrudEnNode.git"
+  },
+  "keywords": [
+    "js",
+    "node"
+  ],
+  "author": "HugoLozanoSQ9",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HugoLozanoSQ9/ListaDePersonasCrudEnNode/issues"
+  },
+  "homepage": "https://github.com/HugoLozanoSQ9/ListaDePersonasCrudEnNode#readme"
+}

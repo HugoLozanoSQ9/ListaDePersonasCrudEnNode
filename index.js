@@ -52,10 +52,10 @@ function rm(koder) {
     let indexKoder = dataMin.indexOf(koder.toLowerCase())
     
     //se procede a eliminar el koder
-    dataMin.splice(indexKoder, 1)
+    data.splice(indexKoder, 1)
 
     //actualizar el archivo (con el elemento de la lista eliminado)
-    updateData(dataMin)
+    updateData(data)
 }
 
 function ls() {
